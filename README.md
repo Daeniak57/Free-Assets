@@ -1,8 +1,8 @@
-# My VRChat Assets
-Welcome to my collection of VRChat assets and tools! Feel free to use them in your projects.
+# Free Assets
+Welcome to my collection of Free Assets
 
 ## Usage and Licensing
-Find licensing information in the LICENSE file, In summary, you are welcome to use these assets for free in public worlds or avatars (just remember to give credit please). However, if you plan to use them commercially, such as in private commissions, please contact me first.
+Find licensing information in the LICENSE file, In summary, you are welcome to use these assets for free. However, if you plan to use them commercially, such as in private commissions, please contact me first.
 
 ## Additional Information
 - **YouTube:** [Daeniak57](https://www.youtube.com/c/Daeniak57)
