@@ -10,6 +10,10 @@ Find licensing information in the LICENSE file, In summary, you are welcome to u
 - **Ko-fi:** [Donate/Commissions](https://ko-fi.com/Daeniak57)
 - **Discord:** [Daeniak's Haven](https://discord.gg/zNzwrd4p39)
 
+## Old Display Shader
+
+If you want a realistic looking screen shader that work's in BIRP [Download It](https://github.com/Daeniak57/My-VRChat-Assets/blob/main/Old%20Display%20Shader%20V1.1.5%20by%20Daeniak57.unitypackage)
+
 Feel free to explore, and don't hesitate to reach out if you have any questions or need assistance.
 
 **Note:** I may not update any of these packages in the future. Thank you for understanding!
