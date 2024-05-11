@@ -10,7 +10,7 @@ You can find additional information on each download links
 - **YouTube:** [Daeniak57](https://www.youtube.com/c/Daeniak57)
 - **Payhip:** [Payhip Store](https://payhip.com/Daeniak57)
 - **Ko-fi:** [Donate/Commissions](https://ko-fi.com/Daeniak57)
-- **Discord:** [Daeniak's Haven](https://discord.gg/zNzwrd4p39)
+- **Discord:** [Click here](https://discord.gg/3rBnBtTTFb)
 
 ## Assets
 
