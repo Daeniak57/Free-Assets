@@ -14,6 +14,6 @@ Find licensing information in the LICENSE file, In summary, you are welcome to u
 
 If you want a realistic looking screen shader that work's in BIRP [Download It](https://github.com/Daeniak57/My-VRChat-Assets/blob/main/Old%20Display%20Shader%20V1.1.5%20by%20Daeniak57.unitypackage)
 
-Feel free to explore, and don't hesitate to reach out if you have any questions or need assistance.
+Preview Video : https://www.youtube.com/watch?v=AHzF1DR_gsY
 
 **Note:** I may not update any of these packages in the future. Thank you for understanding!
